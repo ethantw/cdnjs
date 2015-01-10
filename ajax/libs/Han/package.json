@@ -6,7 +6,7 @@
   "npmName": "han-css",
   "npmFileMap": [
     {
-      "basePath": "/",
+      "basePath": "./dist/",
       "files": [
         "han.min.css",
         "han.css",
